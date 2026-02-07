@@ -1,0 +1,10 @@
+node_modeules
+
+
+#ビルド生成物
+dist/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
